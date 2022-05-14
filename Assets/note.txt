@@ -1,0 +1,25 @@
+player shoot: 21
+player hit: 22
+player dash: 46
+
+enemy hit: 39
+enemy dead: 32
+
+game over: 25
+restart: 15
+
+explosion: 49 (alternative 10)
+
+laser from https://mixkit.co/free-sound-effects/
+
+USED https://freemusicarchive.org/music/gigakoops/please-bring-peace-to-the-village-of-doom/my-legendary-silver-triangle-wealth-pyramid
+
+01:33:438
+03:15:679
+
+https://freemusicarchive.org/music/gigakoops/remastered/ill-rip-every-tooth-out-of-that-shark-and-make-them-into-the-most-beautiful-necklace-you-ever-seen
+
+https://freemusicarchive.org/music/gigakoops/please-bring-peace-to-the-village-of-doom/honey-is-sweet-but-nostalgia-is-bitter
+
+35 - 40
+22 - 30
